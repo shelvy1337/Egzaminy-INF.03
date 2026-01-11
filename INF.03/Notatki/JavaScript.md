@@ -259,6 +259,8 @@ Math.floor(x);
 Notatki mają charakter **edukacyjny** i zostały przygotowane
 z myślą o nauce do egzaminu zawodowego **INF.03**.
 
+---
+
 <p align="center">
   Copyright © 2026 <b>shelvy</b><br>
   JavaScript - INF.03<br>
